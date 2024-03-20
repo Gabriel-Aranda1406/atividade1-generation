@@ -10,7 +10,7 @@
 
 ##  Exercício 3 :
 
-![Resolução](file:///home/Tubidu/Gabriel/Estudos/generation/atividade1-20-03/pngExercicios/ex3.png)
+![Resolução](home/Tubidu/Gabriel/Estudos/generation/atividade1-20-03/pngExercicios/ex3.png)
 
 ##  Exercício 4 :
 
