@@ -14,4 +14,4 @@
 
 ##  Exercício 4 :
 
-(file:///home/Tubidu/Gabriel/Estudos/generation/atividade1-20-03/pngExercicios/ex4.png)
+(pngExercicios/ex4.png)
