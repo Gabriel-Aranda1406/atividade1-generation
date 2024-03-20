@@ -10,7 +10,7 @@
 
 ##  Exercício 3 :
 
-![Resolução](home/Tubidu/Gabriel/Estudos/generation/atividade1-20-03/pngExercicios/ex3.png)
+![Resolução](https://github.com/Gabriel-Aranda1406/atividade1-generation/blob/main/pngExercicios/ex1.png)
 
 ##  Exercício 4 :
 
